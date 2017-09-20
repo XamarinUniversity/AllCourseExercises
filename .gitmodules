@@ -1,0 +1,276 @@
+[submodule "AND101"]
+	path = AND101
+	url = https://github.com/XamarinUniversity/AND101.git
+	branch = master
+[submodule "AND102"]
+	path = AND102
+	url = https://github.com/XamarinUniversity/AND102.git
+	branch = master
+[submodule "AND110"]
+	path = AND110
+	url = https://github.com/XamarinUniversity/AND110.git
+	branch = master
+[submodule "AND115"]
+	path = AND115
+	url = https://github.com/XamarinUniversity/AND115.git
+	branch = master
+[submodule "AND180"]
+	path = AND180
+	url = https://github.com/XamarinUniversity/AND180.git
+	branch = master
+[submodule "AND205"]
+	path = AND205
+	url = https://github.com/XamarinUniversity/AND205.git
+	branch = master
+[submodule "AND210"]
+	path = AND210
+	url = https://github.com/XamarinUniversity/AND210.git
+	branch = master
+[submodule "AND230"]
+	path = AND230
+	url = https://github.com/XamarinUniversity/AND230.git
+	branch = master
+[submodule "AND231"]
+	path = AND231
+	url = https://github.com/XamarinUniversity/AND231.git
+	branch = master
+[submodule "AND240"]
+	path = AND240
+	url = https://github.com/XamarinUniversity/AND240.git
+	branch = master
+[submodule "AND241"]
+	path = AND241
+	url = https://github.com/XamarinUniversity/AND241.git
+	branch = master
+[submodule "AND450"]
+	path = AND450
+	url = https://github.com/XamarinUniversity/AND450.git
+	branch = master
+[submodule "AZR110"]
+	path = AZR110
+	url = https://github.com/XamarinUniversity/AZR110.git
+	branch = master
+[submodule "AZR115"]
+	path = AZR115
+	url = https://github.com/XamarinUniversity/AZR115.git
+	branch = master
+[submodule "AZR120"]
+	path = AZR120
+	url = https://github.com/XamarinUniversity/AZR120.git
+	branch = master
+[submodule "CSC101"]
+	path = CSC101
+	url = https://github.com/XamarinUniversity/CSC101.git
+	branch = master
+[submodule "CSC102"]
+	path = CSC102
+	url = https://github.com/XamarinUniversity/CSC102.git
+	branch = master
+[submodule "CSC103"]
+	path = CSC103
+	url = https://github.com/XamarinUniversity/CSC103.git
+	branch = master
+[submodule "CSC106"]
+	path = CSC106
+	url = https://github.com/XamarinUniversity/CSC106.git
+	branch = master
+[submodule "CSC107"]
+	path = CSC107
+	url = https://github.com/XamarinUniversity/CSC107.git
+	branch = master
+[submodule "CSC108"]
+	path = CSC108
+	url = https://github.com/XamarinUniversity/CSC108.git
+	branch = master
+[submodule "CSC109"]
+	path = CSC109
+	url = https://github.com/XamarinUniversity/CSC109.git
+	branch = master
+[submodule "CSC350"]
+	path = CSC350
+	url = https://github.com/XamarinUniversity/CSC350.git
+	branch = master
+[submodule "CSC351"]
+	path = CSC351
+	url = https://github.com/XamarinUniversity/CSC351.git
+	branch = master
+[submodule "CSC352"]
+	path = CSC352
+	url = https://github.com/XamarinUniversity/CSC352.git
+	branch = master
+[submodule "ENT170"]
+	path = ENT170
+	url = https://github.com/XamarinUniversity/ENT170.git
+	branch = master
+[submodule "ENT302"]
+	path = ENT302
+	url = https://github.com/XamarinUniversity/ENT302.git
+	branch = master
+[submodule "ENT410"]
+	path = ENT410
+	url = https://github.com/XamarinUniversity/ENT410.git
+	branch = master
+[submodule "FSC102"]
+	path = FSC102
+	url = https://github.com/XamarinUniversity/FSC102.git
+	branch = master
+[submodule "FSC103"]
+	path = FSC103
+	url = https://github.com/XamarinUniversity/FSC103.git
+	branch = master
+[submodule "FSC104"]
+	path = FSC104
+	url = https://github.com/XamarinUniversity/FSC104.git
+	branch = master
+[submodule "FSC105"]
+	path = FSC105
+	url = https://github.com/XamarinUniversity/FSC105.git
+	branch = master
+[submodule "IOS101"]
+	path = IOS101
+	url = https://github.com/XamarinUniversity/IOS101.git
+	branch = master
+[submodule "IOS102"]
+	path = IOS102
+	url = https://github.com/XamarinUniversity/IOS102.git
+	branch = master
+[submodule "IOS115"]
+	path = IOS115
+	url = https://github.com/XamarinUniversity/IOS115.git
+	branch = master
+[submodule "IOS205"]
+	path = IOS205
+	url = https://github.com/XamarinUniversity/IOS205.git
+	branch = master
+[submodule "IOS210"]
+	path = IOS210
+	url = https://github.com/XamarinUniversity/IOS210.git
+	branch = master
+[submodule "IOS211"]
+	path = IOS211
+	url = https://github.com/XamarinUniversity/IOS211.git
+	branch = master
+[submodule "IOS215"]
+	path = IOS215
+	url = https://github.com/XamarinUniversity/IOS215.git
+	branch = master
+[submodule "IOS230"]
+	path = IOS230
+	url = https://github.com/XamarinUniversity/IOS230.git
+	branch = master
+[submodule "IOS231"]
+	path = IOS231
+	url = https://github.com/XamarinUniversity/IOS231.git
+	branch = master
+[submodule "IOS240"]
+	path = IOS240
+	url = https://github.com/XamarinUniversity/IOS240.git
+	branch = master
+[submodule "IOS300"]
+	path = IOS300
+	url = https://github.com/XamarinUniversity/IOS300.git
+	branch = master
+[submodule "IOS350"]
+	path = IOS350
+	url = https://github.com/XamarinUniversity/IOS350.git
+	branch = master
+[submodule "UWP101"]
+	path = UWP101
+	url = https://github.com/XamarinUniversity/UWP101.git
+	branch = master
+[submodule "XAM101"]
+	path = XAM101
+	url = https://github.com/XamarinUniversity/XAM101.git
+	branch = master
+[submodule "XAM110"]
+	path = XAM110
+	url = https://github.com/XamarinUniversity/XAM110.git
+	branch = master
+[submodule "XAM120"]
+	path = XAM120
+	url = https://github.com/XamarinUniversity/XAM120.git
+	branch = master
+[submodule "XAM130"]
+	path = XAM130
+	url = https://github.com/XamarinUniversity/XAM130.git
+	branch = master
+[submodule "XAM135"]
+	path = XAM135
+	url = https://github.com/XamarinUniversity/XAM135.git
+	branch = master
+[submodule "XAM140"]
+	path = XAM140
+	url = https://github.com/XamarinUniversity/XAM140.git
+	branch = master
+[submodule "XAM150"]
+	path = XAM150
+	url = https://github.com/XamarinUniversity/XAM150.git
+	branch = master
+[submodule "XAM151"]
+	path = XAM151
+	url = https://github.com/XamarinUniversity/XAM151.git
+	branch = master
+[submodule "XAM160"]
+	path = XAM160
+	url = https://github.com/XamarinUniversity/XAM160.git
+	branch = master
+[submodule "XAM300"]
+	path = XAM300
+	url = https://github.com/XamarinUniversity/XAM300.git
+	branch = master
+[submodule "XAM310"]
+	path = XAM310
+	url = https://github.com/XamarinUniversity/XAM310.git
+	branch = master
+[submodule "XAM311"]
+	path = XAM311
+	url = https://github.com/XamarinUniversity/XAM311.git
+	branch = master
+[submodule "XAM312"]
+	path = XAM312
+	url = https://github.com/XamarinUniversity/XAM312.git
+	branch = master
+[submodule "XAM320"]
+	path = XAM320
+	url = https://github.com/XamarinUniversity/XAM320.git
+	branch = master
+[submodule "XAM330"]
+	path = XAM330
+	url = https://github.com/XamarinUniversity/XAM330.git
+	branch = master
+[submodule "XAM335"]
+	path = XAM335
+	url = https://github.com/XamarinUniversity/XAM335.git
+	branch = master
+[submodule "XAM370"]
+	path = XAM370
+	url = https://github.com/XamarinUniversity/XAM370.git
+	branch = master
+[submodule "XTC101"]
+	path = XTC101
+	url = https://github.com/XamarinUniversity/XTC101.git
+	branch = master
+[submodule "XTC102"]
+	path = XTC102
+	url = https://github.com/XamarinUniversity/XTC102.git
+	branch = master
+[submodule "XTC103"]
+	path = XTC103
+	url = https://github.com/XamarinUniversity/XTC103.git
+	branch = master
+[submodule "ENT172"]
+	path = ENT172
+	url = https://github.com/XamarinUniversity/ENT172.git
+	branch = master
+[submodule "IOS110"]
+	path = IOS110
+	url = https://github.com/XamarinUniversity/IOS110.git
+	branch = master
+[submodule "CSC105"]
+	path = CSC105
+	url = https://github.com/XamarinUniversity/CSC105.git
+	branch = master
+[submodule "CSC104"]
+	path = CSC104
+	url = https://github.com/XamarinUniversity/CSC104.git
+	branch = master
