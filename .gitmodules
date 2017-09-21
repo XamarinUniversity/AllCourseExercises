@@ -274,3 +274,15 @@
 	path = CSC104
 	url = https://github.com/XamarinUniversity/CSC104.git
 	branch = master
+[submodule "CSC271"]
+	path = CSC271
+	url = https://github.com/XamarinUniversity/CSC271.git
+	branch = master
+[submodule "CSC270"]
+	path = CSC270
+	url = https://github.com/XamarinUniversity/CSC270.git
+	branch = master
+[submodule "CSC353"]
+	path = CSC353
+	url = https://github.com/XamarinUniversity/CSC353.git
+	branch = master
