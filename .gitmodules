@@ -286,3 +286,7 @@
 	path = CSC353
 	url = https://github.com/XamarinUniversity/CSC353.git
 	branch = master
+[submodule "XAM301"]
+	path = XAM301
+	url = https://github.com/XamarinUniversity/XAM301.git
+	branch = master
