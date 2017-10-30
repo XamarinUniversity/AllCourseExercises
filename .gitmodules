@@ -214,6 +214,18 @@
 	path = XAM160
 	url = https://github.com/XamarinUniversity/XAM160.git
 	branch = master
+[submodule "XAM250"]
+	path = XAM250
+	url = https://github.com/XamarinUniversity/XAM250.git
+	branch = master
+[submodule "XAM270"]
+	path = XAM270
+	url = https://github.com/XamarinUniversity/XAM270.git
+	branch = master
+[submodule "XAM280"]
+	path = XAM280
+	url = https://github.com/XamarinUniversity/XAM280.git
+	branch = master
 [submodule "XAM312"]
 	path = XAM312
 	url = https://github.com/XamarinUniversity/XAM312.git
@@ -277,16 +289,4 @@
 [submodule "XAM301"]
 	path = XAM301
 	url = https://github.com/XamarinUniversity/XAM301.git
-	branch = master
-[submodule "XAM250"]
-	path = XAM250
-	url = https://github.com/XamarinUniversity/XAM250.git
-	branch = master
-[submodule "XAM270"]
-	path = XAM270
-	url = https://github.com/XamarinUniversity/XAM270.git
-	branch = master
-[submodule "XAM280"]
-	path = XAM280
-	url = https://github.com/XamarinUniversity/XAM280.git
 	branch = master
