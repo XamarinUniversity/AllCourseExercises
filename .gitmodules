@@ -290,3 +290,7 @@
 	path = XAM301
 	url = https://github.com/XamarinUniversity/XAM301.git
 	branch = master
+[submodule "PXF101"]
+	path = PXF101
+	url = https://github.com/XamarinUniversity/PXF101.git
+	branch = master
