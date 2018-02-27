@@ -302,3 +302,19 @@
 	path = IOS103
 	url = https://github.com/XamarinUniversity/IOS103.git
 	branch = master
+[submodule "AND220"]
+	path = AND220
+	url = https://github.com/XamarinUniversity/AND220
+	branch = master
+[submodule "IOS220"]
+	path = IOS220
+	url = https://github.com/XamarinUniversity/IOS220
+	branch = master
+[submodule "XAM220"]
+	path = XAM220
+	url = https://github.com/XamarinUniversity/XAM220
+	branch = master
+[submodule "WP220"]
+	path = WP220
+	url = https://github.com/XamarinUniversity/WP220
+	branch = master
