@@ -294,3 +294,11 @@
 	path = PXF101
 	url = https://github.com/XamarinUniversity/PXF101.git
 	branch = master
+[submodule "XAM205"]
+	path = XAM205
+	url = https://github.com/XamarinUniversity/XAM205.git
+	branch = master
+[submodule "IOS103"]
+	path = IOS103
+	url = https://github.com/XamarinUniversity/IOS103.git
+	branch = master
