@@ -330,3 +330,7 @@
 	path = Udemy-Xamarin.Forms1
 	url = https://github.com/XamarinUniversity/Udemy-Xamarin.Forms1.git
 	branch = master
+[submodule "XAM290"]
+	path = XAM290
+	url = https://github.com/XamarinUniversity/XAM290.git
+	branch = master
