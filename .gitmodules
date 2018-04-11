@@ -318,3 +318,15 @@
 	path = WP220
 	url = https://github.com/XamarinUniversity/WP220
 	branch = master
+[submodule "Udemy-iOS1"]
+	path = Udemy-iOS1
+	url = https://github.com/XamarinUniversity/Udemy-iOS1.git
+	branch = master
+[submodule "Udemy-Android1"]
+	path = Udemy-Android1
+	url = https://github.com/XamarinUniversity/Udemy-Android1.git
+	branch = master
+[submodule "Udemy-Xamarin.Forms1"]
+	path = Udemy-Xamarin.Forms1
+	url = https://github.com/XamarinUniversity/Udemy-Xamarin.Forms1.git
+	branch = master
