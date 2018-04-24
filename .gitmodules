@@ -338,3 +338,11 @@
 	path = IOS450
 	url = https://github.com/XamarinUniversity/IOS450.git
 	branch = master
+[submodule "AZR101"]
+	path = AZR101
+	url = https://github.com/XamarinUniversity/AZR101.git
+	branch = master
+[submodule "ENT171"]
+	path = ENT171
+	url = https://github.com/XamarinUniversity/ENT171.git
+	branch = master
