@@ -346,3 +346,7 @@
 	path = ENT171
 	url = https://github.com/XamarinUniversity/ENT171.git
 	branch = master
+[submodule "IOS104"]
+	path = IOS104
+	url = https://github.com/XamarinUniversity/IOS104.git
+	branch = master
