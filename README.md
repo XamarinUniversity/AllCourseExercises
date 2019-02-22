@@ -8,6 +8,7 @@ All of the other course repositories are [Git submodules](https://git-scm.com/bo
 
 ```bash
 git clone {this-repository-URL}
+cd {new-cloned-repo-path}
 git submodule init
 git submodule update
 ```
