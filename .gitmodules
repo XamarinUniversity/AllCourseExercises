@@ -360,3 +360,6 @@
 [submodule "XTC201"]
 	path = XTC201
 	url = https://github.com/XamarinUniversity/XTC201.git
+[submodule "ENT301"]
+	path = ENT301
+	url = https://github.com/XamarinUniversity/ENT301.git
