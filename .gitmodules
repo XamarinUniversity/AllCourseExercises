@@ -354,3 +354,6 @@
 	path = IOS451
 	url = https://github.com/XamarinUniversity/IOS451.git
 	branch = master
+[submodule "FSC101"]
+	path = FSC101
+	url = https://github.com/XamarinUniversity/FSC101.git
