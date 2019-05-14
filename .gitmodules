@@ -357,3 +357,6 @@
 [submodule "FSC101"]
 	path = FSC101
 	url = https://github.com/XamarinUniversity/FSC101.git
+[submodule "XTC201"]
+	path = XTC201
+	url = https://github.com/XamarinUniversity/XTC201.git
